@@ -14,4 +14,5 @@ Step 2: Run the data_change file, which can help you divide the dataset by actio
 
 
 
-Step 3:
+Step 3:input your data(After Step1) into creat_initial.py to help you finish the pretrain part
+ATTENTION you need to set the column names in this format.
