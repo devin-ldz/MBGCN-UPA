@@ -5,5 +5,13 @@ To run this model you need: python ==3.9
   numpy                        1.23.5
   pandas                       2.0.3
 
-First, process your data, only retain user_id, item_id, item_category, behavior_type.
-Secondly run
+Step1: process your data, only retain user_id, item_id, item_category, behavior_type.
+
+
+
+
+Step 2: Run the data_change file, which can help you divide the dataset by action type.
+
+
+
+Step 3:
