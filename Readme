@@ -14,7 +14,7 @@ To run this model you need: python ==3.9
 
 
 
-#Step 3:Input your data(After Step1) into creat_initial.py to help you finish the pretrain part
+#Step 3:Input your data(After Step1) into create_initial.py to help you finish the pretrain part
 #ATTENTION you need to set the column names in this format.
 #['user', 'item', 'category', 'action', 'timestamp']
 
